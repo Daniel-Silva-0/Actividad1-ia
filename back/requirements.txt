@@ -1,0 +1,4 @@
+fastapi>=0.110,<1
+pydantic[email]>=2,<3
+SQLAlchemy>=2,<3
+uvicorn[standard]>=0.29,<1
